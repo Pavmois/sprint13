@@ -1,6 +1,6 @@
 Sprint 13
 
-version 1.0
+version 1
 
 Работы с базами данных на основе MongoDB:
 
